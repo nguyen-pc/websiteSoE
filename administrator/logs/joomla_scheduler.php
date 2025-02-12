@@ -27,3 +27,17 @@
 2025-02-07	10:20:45	INFO	Tác vụ Could not instantiate mail function.
 2025-02-07	10:20:45	INFO	Tác vụ UpdateNotification end
 2025-02-07	10:20:45	INFO	Đã hoàn thành thành công tác vụ#03 trong 5.93(net 5.95) giây.
+2025-02-11	06:50:24	INFO	Đang chạy tác vụ #03 'Update Notification'.
+2025-02-11	06:50:30	INFO	Tác vụ Could not instantiate mail function.
+2025-02-11	06:50:30	INFO	Tác vụ UpdateNotification end
+2025-02-11	06:50:30	INFO	Đã hoàn thành thành công tác vụ#03 trong 5.93(net 5.96) giây.
+2025-02-11	06:55:20	INFO	Đang chạy tác vụ #02 'Session GC'.
+2025-02-11	06:55:20	INFO	Tác vụ SessionGC end
+2025-02-11	06:55:20	INFO	Đã hoàn thành thành công tác vụ#02 trong 0.00(net 0.00) giây.
+2025-02-12	11:26:09	INFO	Đang chạy tác vụ #03 'Update Notification'.
+2025-02-12	11:26:14	INFO	Tác vụ Could not instantiate mail function.
+2025-02-12	11:26:14	INFO	Tác vụ UpdateNotification end
+2025-02-12	11:26:15	INFO	Đã hoàn thành thành công tác vụ#03 trong 5.78(net 5.81) giây.
+2025-02-12	11:26:25	INFO	Đang chạy tác vụ #02 'Session GC'.
+2025-02-12	11:26:25	INFO	Tác vụ SessionGC end
+2025-02-12	11:26:25	INFO	Đã hoàn thành thành công tác vụ#02 trong 0.00(net 0.00) giây.
