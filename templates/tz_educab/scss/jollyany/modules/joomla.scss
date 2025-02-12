@@ -1,0 +1,98 @@
+// Joomla Default
+@import "../../../../../libraries/jollyany/framework/scss/jollyany/modules/joomla";
+.blog {
+  article {
+    position: relative;
+  }
+  .jollyany-event {
+    border: 1px solid $border-color;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    padding: 30px;
+  }
+}
+.article-info {
+  color: #8dadc3;
+  a, span, i {
+    color: #8dadc3;
+  }
+  i {
+    color: #5598ff;
+  }
+  > dd {
+    padding-right: 1rem;
+  }
+}
+.article-title {
+  .page-header [itemprop="name"] {
+    font-size: 24px;
+    font-weight: 800;
+    a {
+      color: inherit;
+    }
+  }
+}
+.items-leading {
+  .page-header [itemprop="name"] {
+    font-size: 32px;
+  }
+  > article {
+    margin-bottom: 3rem;
+  }
+}
+blockquote {
+  background-color: #ffc600;
+  padding: 32px 55px 37px 105px;
+  border-left: 4px solid black;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  &:before {
+    top: 38px;
+    left: 37px;
+  }
+}
+.sidebar {
+  .moduletable {
+    border: 2px solid $border-color;
+    padding: 20px;
+    border-radius: 3px;
+    &:first-child {
+      padding-top: 20px;
+    }
+    &:last-child {
+      padding-bottom: 20px;
+      border-bottom: 2px solid $border-color;
+    }
+  }
+}
+.item-page {
+  .item-title {
+    h2 {
+      font-size: 3rem;
+      font-weight: 800;
+    }
+    margin-bottom: 2rem;
+  }
+  .article-info {
+    margin-top: 2rem;
+  }
+}
+.cat-children {
+  border-bottom: 1px solid $border-color;
+  margin-bottom: 2rem;
+  padding-bottom: 5px;
+  >div {
+    display: inline-block;
+    h3.item-title {
+      font-size: 16px;
+      margin-bottom: 3px;
+      padding: 0 20px 10px 0;
+      a {
+        &:hover {
+          color: $colorMain;
+          border-bottom: 1px solid $colorMain;
+          font-weight: bolder;
+        }
+      }
+    }
+  }
+}

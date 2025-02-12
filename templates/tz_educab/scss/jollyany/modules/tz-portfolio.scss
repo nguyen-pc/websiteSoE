@@ -1,0 +1,17 @@
+// TZ Portfolio Default
+@import "../../../../../libraries/jollyany/framework/scss/jollyany/modules/tz-portfolio";
+.tplBesley #tz_options .option-combo a.btn-default {
+  transition: all 0.3s;
+  &:hover {
+    color: $colorMain;
+  }
+  &.selected {
+    border-color: #ffc600;
+    border-inline-width: 3px;
+  }
+}
+.tpp-bootstrap {
+  h1,h2,h3,h4,h5,h6 {
+    font-weight: 700;
+  }
+}
